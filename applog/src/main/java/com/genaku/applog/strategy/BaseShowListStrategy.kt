@@ -4,7 +4,7 @@ import androidx.annotation.RestrictTo
 import com.genaku.applog.strategy.names.INames
 import com.genaku.applog.strategy.names.NameId
 
-@RestrictTo(RestrictTo.Scope.LIBRARY)
+//@RestrictTo(RestrictTo.Scope.LIBRARY)
 abstract class BaseShowListStrategy(
     createNames: () -> INames,
     private val log: (String) -> Unit

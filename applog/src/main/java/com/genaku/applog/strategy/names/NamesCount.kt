@@ -2,7 +2,7 @@ package com.genaku.applog.strategy.names
 
 import androidx.annotation.RestrictTo
 
-@RestrictTo(RestrictTo.Scope.LIBRARY)
+//@RestrictTo(RestrictTo.Scope.LIBRARY)
 class NamesCount : INames {
 
     private val names: MutableMap<String, Int> = mutableMapOf()
