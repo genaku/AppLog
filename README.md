@@ -1,0 +1,3 @@
+# AppLog
+
+Lifecycle logging
